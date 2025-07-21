@@ -75,13 +75,13 @@ Moderate Demented
 
 🚀 How to Run
 Clone the Repository
-
+```
 git clone https://github.com/Krishna8660/Alzheimer-s-disease-prediction-using-Machine-Learning.git
-
+```
 Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 Prepare Dataset
 
 Organize dataset into appropriate folders as mentioned above.
