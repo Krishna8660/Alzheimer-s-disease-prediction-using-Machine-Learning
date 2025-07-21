@@ -49,9 +49,7 @@ Moderate Demented
 
 📁 Structure:
 
-swift
-Copy
-Edit
+```
 /dataset/
   /train/
     /MildDemented/
@@ -59,12 +57,17 @@ Edit
     /NonDemented/
     /VeryMildDemented/
   /test/
+```
+
+
 📈 Performance
-Class	Precision	Recall	F1-Score
-Mild Demented	0.82	0.87	0.85
-Moderate Demented	0.97	1.00	0.98
-Non Demented	0.81	0.68	0.74
-Very Mild Demented	0.65	0.70	0.67
+| Class              | Precision | Recall | F1-Score |
+| ------------------ | --------- | ------ | -------- |
+| Mild Demented      | 0.82      | 0.87   | 0.85     |
+| Moderate Demented  | 0.97      | 1.00   | 0.98     |
+| Non Demented       | 0.81      | 0.68   | 0.74     |
+| Very Mild Demented | 0.65      | 0.70   | 0.67     |
+
 
 🔍 Accuracy: 83.06%
 
@@ -76,6 +79,7 @@ Clone the Repository
 git clone https://github.com/Krishna8660/Alzheimer-s-disease-prediction-using-Machine-Learning.git
 
 Install Dependencies
+
 pip install -r requirements.txt
 
 Prepare Dataset
