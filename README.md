@@ -73,17 +73,11 @@ Very Mild Demented	0.65	0.70	0.67
 🚀 How to Run
 Clone the Repository
 
-bash
-Copy
-Edit
-git clone https://github.com//Alzheimer-SECNN-RF.git
-cd Alzheimer-SECNN-RF
-Install Dependencies
+git clone https://github.com/Krishna8660/Alzheimer-s-disease-prediction-using-Machine-Learning.git
 
-bash
-Copy
-Edit
+Install Dependencies
 pip install -r requirements.txt
+
 Prepare Dataset
 
 Organize dataset into appropriate folders as mentioned above.
@@ -103,4 +97,3 @@ NumPy, Pandas
 
 Matplotlib, Seaborn
 
-OpenCV
